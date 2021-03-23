@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @vaibhav-INDIE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @vaibhav-INDIE a high school student
+- 👀 I’m interested in GUI development and Bots with python
+- 🌱 I’m currently learning GUIs with Pyside2 in python
+- 💞️ I’m looking to collaborate on a big project that wants a graphical interface.
+- 📫 reach me at vaibhavtarun52@gmail.com
 
-<!---
-vaibhav-INDIE/vaibhav-INDIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
