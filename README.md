@@ -2,8 +2,6 @@
 
 ---
 
-About Me
-
 🔭 Current Focus:
 
 Working on learning OS with AI/ML
