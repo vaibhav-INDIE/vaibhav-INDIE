@@ -1,22 +1,49 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Jain</h1>
-<h3 align="center">I am an ambitious Dev working to solve world and my problems</h3>
+<h1 align="center">Vaibhav Jain</h1> <h3 align="center">Developer | Problem Solver | OS & Mathematics Enthusiast</h3> <p align="center">I am a dedicated developer passionate about leveraging technology to solve complex problems and make a meaningful impact. My work spans across various domains, including GUI development, circuit design, and algorithms, with a keen interest in operating systems and mathematics.</p>
+About Me
+🔭 Current Focus:
+Working on GUI development using PYQT5/6 in Python. You can explore my GUI template collection here: GUIS - Templates
 
-- 🔭 I’m currently working on GUIS building with PYQT5/6 in python. [GUIS - Templates](https://github.com/vaibhav-INDIE/GUIS)
+🌱 Learning Journey:
+Actively learning:
 
-- 🌱 I’m currently learning Data Structure and Algorithems in C, Object oriented progamming in Java, Circuit Design using Verilog, Computer Architecture in ARM-Assembly **C, Java, Verilog, ARM-Assembly**
+Data Structures and Algorithms in C
+Object-Oriented Programming in Java
+Circuit Design using Verilog
+Computer Architecture with ARM-Assembly
+🎯 Core Interests:
+My passion lies in Operating Systems and Mathematics, which continue to inspire my approach to problem-solving and system optimization.
 
-- 👨‍💻 All of my projects are available at [https://github.com/vaibhav-INDIE?tab=repositories](https://github.com/vaibhav-INDIE?tab=repositories)
+💻 Projects & Contributions:
+I actively contribute to open-source projects and maintain several repositories. Some notable ones include:
 
-- 📫 How to reach me **cuttuop52@gmail.com**
+AI.Rassoi – A smart kitchen assistant offering personalized diet plans and calorie tracking.
+Circuit Simulations – Digital circuit designs and simulations using Verilog.
+GUIS - Templates – A collection of reusable GUI templates built with PYQT.
+⚡ Fun Fact:
+Did you know that vending machines cause more fatalities each year than sharks?
 
-- ⚡ Fun fact **Vending machines kill more people than sharks**
+📫 Get In Touch
+Email: cuttuop52@gmail.com
+GitHub: vaibhav-INDIE
+Instagram: vbv_jain
+CodeChef: vaibhavchad
+🛠️ Technical Skills
+Languages:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vbv_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vbv_jain" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vaibhavchad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavchad" height="30" width="40" /></a>
-</p>
+C
+Java
+Python
+ARM-Assembly
+Verilog
+Frameworks & Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+PYQT5/6
+Django
+Flask
+TensorFlow
+OpenCV
+Firebase
+Flutter
+Microsoft SQL Server
+🔗 Connect
+<p align="left"> <a href="https://instagram.com/vbv_jain" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="vbv_jain" height="30" width="40" /> </a> <a href="https://www.codechef.com/users/vaibhavchad" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavchad" height="30" width="40" /> </a> </p>
