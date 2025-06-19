@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRiOGU5YWE4ZTA2ZDRmMGM3MGM5OWIzZGMxZGFlZTBiMzhjYjA2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6i7T4V/giphy.gif" width="100%" alt="Header Banner"/>
-</p>
-
 <div align="center">
   <h1>Hi there, I'm Vaibhav Jain 👋</h1>
   
@@ -108,6 +104,3 @@
   </p>
 </details>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmemFxbmI3b3YxZm85dDUxbzJ5N3p3cWN4Mmk0Y3MzZ3A0enJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="100%" alt="Footer Banner"/>
-</p>
