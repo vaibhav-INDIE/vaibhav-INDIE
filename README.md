@@ -25,6 +25,14 @@ ANN model using similarity scores as features. Built to handle code-mixed and co
 
 ---
 
+## Ship'd AI Challenges
+
+16 challenges · **#2** best rank overall · **₹1,33,920** total prize earned
+
+Competitive AI sprints on [Ship'd](https://shipd.ai) covering NLP, computer vision, and applied ML — short-horizon, high-signal competitions judged on working shipped product.
+
+---
+
 ## Stack
 
 **Daily:** Python, C, Java  
@@ -38,4 +46,4 @@ ANN model using similarity scores as features. Built to handle code-mixed and co
 
 ## Elsewhere
 
-[cuttu.in](https://www.cuttu.in) · [Email](mailto:vbvjain2004@gmail.com) · [Linkedin](www.linkedin.com/in/vaibhav-jain-3b7422204)
+[cuttu.in](https://www.cuttu.in) · [Email](mailto:vbvjain2004@gmail.com) · [CodeChef](https://www.codechef.com/users/vaibhavchad)
