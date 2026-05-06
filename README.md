@@ -14,7 +14,7 @@ Active competitor with a focus on NLP and computer vision. Reached #1 on leaderb
 **WhatsApp Personal Assistant**
 A local-first AI assistant that reads your WhatsApp history and replies with learned personas. Go bridge (whatsmeow, no CGO) on `:8080`, FastAPI inference server on `:9000`, ChromaDB for semantic memory, GPT-4o for generation. Works today: message sync, CLI query, auto-reply, semantic search. Building toward: voice-first interface, React + Node.js dashboard, multi-tenant support.
 
-**AI.Rassoi** — [airassoi.cuttu.in](https://www.airassoi.cuttu.in)
+**AI.Rassoi** — [airassoi.cuttu.in](https://airassoi.cuttu.in/)
 Health assistant with diet planning and calorie tracking backed by Gemini. Focused on practical Indian food context that generic nutrition APIs miss.
 
 **Genetic LLM Reasoning**
